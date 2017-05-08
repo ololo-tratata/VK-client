@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "49d52a73-12e4-c54c-b139-432858d207a6++3087",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "49d52a73-12e4-c54c-b139-432858d207a6++3087" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "49d52a73-12e4-c54c-b139-432858d207a6++3087" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "83219C54-66A5-4D05-8961-947BE9DEB4F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "49d52a73-12e4-c54c-b139-432858d207a6++3087" : "loykoai\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "test_project",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sources\/test_project\/test_project.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.qulix.com\/svn\/sandbox",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49d52a73-12e4-c54c-b139-432858d207a6++3087"
+    }
+  ]
+}

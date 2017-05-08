@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  test_project
+
+  Created by Loyko, Artjom on 1/11/17.
+  Copyright © 2017 Loyko, Artjom. All rights reserved.
+*/
+
+"RecordOnTheWall" = "Запись на стене";
+"NetworkUnrechable" = "Проверьте подключение к интернету";
+"ConnectionError" = "Ошибка подключения";
+"SendMessage" = "Отправить сообщение";
+"EnterAText" = "Введите текст";
